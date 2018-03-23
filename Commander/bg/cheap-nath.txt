@@ -1,0 +1,78 @@
+1 Abyssal Specter
+1 Ambush Commander
+1 Banshee of the Dread Choir
+1 Barter in Blood
+1 Blighted Fen
+1 Blighted Woodland
+1 Bloodhusk Ritualist
+1 Cabal Interrogator
+1 Cultivator of Blades
+1 Cunning Lethemancer
+1 Delirium Skeins
+1 Desert of the Glorified
+1 Desert of the Indomitable
+1 Drove of Elves
+1 Dwynen, Gilt-Leaf Daen
+1 Elvish Harbinger
+1 Elvish Promenade
+1 Elvish Soultiller
+1 Evolving Wilds
+1 Eyeblight Massacre
+1 Eyeblight's Ending
+1 Fleshbag Marauder
+12 Forest
+1 Foul Orchard
+1 Fyndhorn Elder
+1 Fyndhorn Elves
+1 Gempalm Strider
+1 Gnarlroot Trapper
+1 Golgari Cluestone
+1 Golgari Guildgate
+1 Golgari Keyrune
+1 Golgari Signet
+1 Grim Backwoods
+1 Guul Draz Specter
+1 Heedless One
+1 Honden of Night's Reach
+1 Hunting Triad
+1 Hypnotic Specter
+1 Imperious Perfect
+1 Lys Alana Scarblade
+1 Megrim
+1 Mindstab
+1 Mortuary Mire
+1 Murderous Cut
+1 Nath of the Gilt-Leaf
+1 Naturalize
+1 Necrogen Mists
+1 Needle Specter
+1 Nullmage Shepherd
+1 Painful Quandary
+1 Putrefy
+1 Quest for the Nihil Stone
+1 Raiders' Wake
+1 Rampant Growth
+1 Read the Bones
+1 Remorseless Punishment
+1 Rhys the Exiled
+1 Rogue's Passage
+1 Ruinous Path
+1 Scepter of Fugue
+1 Second Harvest
+1 Shaman of the Pack
+1 Specter's Shroud
+1 Stoneforge Masterwork
+14 Swamp
+1 Tajuru Warcaller
+1 Torment of Scarabs
+1 Torment of Venom
+1 Tribal Forcemage
+1 Ultimate Price
+1 Unnerve
+1 Viridian Emissary
+1 Viridian Shaman
+1 Vivid Marsh
+1 Voice of the Woods
+1 Whispering Specter
+
+

@@ -1,0 +1,92 @@
+1 Abrupt Decay
+1 Acidic Slime
+1 Aetherworks Marvel
+1 All Is Dust
+1 Altar's Reap
+1 Artisan of Kozilek
+1 Asceticism
+1 Ashnod's Altar
+1 Awakening Zone
+1 Behold the Beyond
+1 Black Market
+1 Blisterpod
+1 Brood Butcher
+1 Brood Monitor
+1 Buried Alive
+1 Buried Ruin
+1 Catacomb Sifter
+1 Command Tower
+1 Conduit of Ruin
+1 Cryptic Gateway
+1 Damnation
+1 Deadbridge Chant
+1 Deceiver of Form
+1 Defense of the Heart
+1 Diabolic Intent
+1 Dictate of Erebos
+1 Eldrazi Mimic
+1 Eldrazi Monument
+1 Eldrazi Temple
+1 Emrakul, the Promised End
+1 Endbringer
+1 Entomb
+1 Evolutionary Leap
+1 Evolving Wilds
+1 Exotic Orchard
+1 Eyeless Watcher
+6 Forest
+1 Foul Orchard
+1 From Beyond
+1 Golgari Charm
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Grave Pact
+1 Grim Backwoods
+1 Grisly Salvage
+1 It That Betrays
+1 Jarad's Orders
+1 Journey to Eternity
+1 Jungle Basin
+1 Jungle Hollow
+1 Kozilek, the Great Distortion
+1 Life from the Loam
+1 Lightning Greaves
+1 Living Death
+1 Llanowar Wastes
+1 Matter Reshaper
+1 Meren of Clan Nel Toth
+1 Miren, the Moaning Well
+1 Nissa's Revelation
+1 Panharmonicon
+1 Parallel Lives
+1 Path of Discovery
+1 Pathrazer of Ulamog
+1 Primal Growth
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sakura-Tribe Elder
+1 Sanctum of Ugin
+1 See the Unwritten
+1 Sifter of Skulls
+1 Skullclamp
+1 Smothering Abomination
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spore Frog
+1 Spreading Plague
+6 Swamp
+1 Swiftfoot Boots
+1 Tainted Wood
+1 Temple of Malady
+1 Thespian's Stage
+1 Thran Dynamo
+1 Tomb of the Spirit Dragon
+1 Toxic Deluge
+1 Ulamog, the Ceaseless Hunger
+1 Unclaimed Territory
+1 Verdant Catacombs
+1 Void Winnower
+1 Woodland Cemetery
+
+
