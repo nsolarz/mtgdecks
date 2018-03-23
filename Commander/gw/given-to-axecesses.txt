@@ -1,0 +1,84 @@
+1 Anointed Procession
+1 Arcbound Crusher
+1 Armory Automaton
+1 Auriok Survivors
+1 Balan, Wandering Knight
+1 Blighted Woodland
+1 Blind Obedience
+1 Bloodforged Battle-Axe
+1 Buried Ruin
+1 Canopy Vista
+1 Command Tower
+1 Conqueror's Flail
+1 Cultivate
+1 Darksteel Mutation
+1 Doubling Season
+1 Dragonlord Dromoka
+1 Emeria Shepherd
+1 Eternal Witness
+1 Explosive Vegetation
+10 Forest
+1 Ghost Quarter
+1 Grand Abolisher
+1 Hammer of Nazahn
+1 Harmonize
+1 Hedron Archive
+1 Heroic Intervention
+1 Homeward Path
+1 Hunter's Prowess
+1 Imposing Sovereign
+1 Inventors' Fair
+1 Kemba, Kha Regent
+1 Leonin Abunas
+1 Leonin Shikari
+1 Lightning Greaves
+1 Loxodon Punisher
+1 Managorger Hydra
+1 Masterwork of Ingenuity
+1 Mirage Mirror
+1 Myriad Landscape
+1 Nahiri, the Lithomancer
+1 Nazahn, Revered Bladesmith
+1 Nim Deathmantle
+1 Nylea, God of the Hunt
+1 Open the Armory
+10 Plains
+1 Pull from Eternity
+1 Puresteel Paladin
+1 Relic Crush
+1 Return to Dust
+1 Riftsweeper
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Rout
+1 Savannah
+1 Scattered Groves
+1 Scavenging Ooze
+1 Sculpting Steel
+1 Selesnya Signet
+1 Sigarda's Aid
+1 Skullclamp
+1 Sol Ring
+1 Song of the Dryads
+1 Soul's Majesty
+1 Steelshaper's Gift
+1 Stone Haven Outfitter
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Stonehoof Chieftain
+1 Sun Titan
+1 Sunpetal Grove
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Swords to Plowshares
+1 Sylvan Reclamation
+1 Taj-Nar Swordsmith
+1 Talisman of Unity
+1 Teferi's Protection
+1 Temple Garden
+1 Thalia, Heretic Cathar
+1 Traverse the Outlands
+1 Wasteland
+1 Windswept Heath
+
+

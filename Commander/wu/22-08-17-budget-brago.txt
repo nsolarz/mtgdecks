@@ -1,0 +1,78 @@
+1 Act of Authority
+1 Angel of Serenity
+1 Aqueous Form
+1 Auramancer
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Azorius Signet
+1 Basalt Monolith
+1 Brago, King Eternal
+1 Cloudblazer
+1 Cloudform
+1 Command Tower
+1 Darksteel Mutation
+1 Deadeye Navigator
+1 Detention Sphere
+1 Diluvian Primordial
+1 Drowner of Hope
+1 Eerie Interlude
+1 Eldrazi Displacer
+1 Endless Sands
+1 Evolving Wilds
+1 Faith's Fetters
+1 Felidar Guardian
+1 Frost Titan
+1 Geist-Honored Monk
+1 Ghostly Flicker
+1 Glacial Fortress
+1 Hedron Archive
+1 Heliod's Pilgrim
+1 Irrigated Farmland
+13 Island
+1 Kor Cartographer
+1 Lavinia of the Tenth
+1 Lightform
+1 Lightning Greaves
+1 Mind Stone
+1 Momentary Blink
+1 Mulldrifter
+1 Myr Battlesphere
+1 Mystic Remora
+1 Nevermaker
+1 Oblivion Ring
+1 Panharmonicon
+1 Pentarch Ward
+1 Peregrine Drake
+1 Phyrexian Ingester
+13 Plains
+1 Prairie Stream
+1 Reality Acid
+1 Reality Shift
+1 Reflector Mage
+1 Resolute Archangel
+1 Riftwing Cloudskate
+1 Rogue's Passage
+1 Sea Gate Oracle
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sphinx of Uthuun
+1 Spine of Ish Sah
+1 Stonehorn Dignitary
+1 Strionic Resonator
+1 Sun Titan
+1 Sunblast Angel
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 Temple of Enlightenment
+1 Temple of the False God
+1 Totem-Guide Hartebeest
+1 Tranquil Cove
+1 Traveler's Cloak
+1 Trial of Knowledge
+1 Trinket Mage
+1 Unquestioned Authority
+1 Venser, Shaper Savant
+1 Whirler Rogue
+1 Whispersilk Cloak
+
+
